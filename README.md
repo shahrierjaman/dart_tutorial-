@@ -1,4 +1,4 @@
-# Introduction to Dart & Setting Up Environment
+# Introduction to Dart 
 
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-Compatible-02569B?logo=flutter)
